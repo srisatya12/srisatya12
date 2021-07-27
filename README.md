@@ -29,7 +29,7 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kulkarni-25&layout=compact">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriSatyaT&layout=compact">
 </div> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&)"><img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
