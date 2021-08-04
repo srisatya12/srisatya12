@@ -1,3 +1,8 @@
+<h1>
+  Connect With Me <a target="_blank">
+  <img src="https://c.tenor.com/Ud8Px21wDcYAAAAj/thisisfinland-finland.gif" height="32px" style="max-width:100%;">
+  </a>
+</h1>
 <h1 align="center">Let's get connected</h1>
 <div align="center">
 <p align="center"> 
