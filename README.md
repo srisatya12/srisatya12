@@ -1,7 +1,6 @@
 <h1 align="center">Let's get connected</h1>
 <div align="center">
 <p align="center"> 
-  <img src="https://media.tenor.com/images/4c156ea542f1d60c0b3338421d3d2e56/tenor.gif"/>
 <a href="https://www.linkedin.com/in/sri-satya-282115201/">
   <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> 
