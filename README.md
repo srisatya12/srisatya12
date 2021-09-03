@@ -6,7 +6,7 @@
 <a href="https://twitter.com/SriSatya_tp">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:srisatya9903@yahoo.com">
+<a href="mailto:srisatya1187@yahoo.com">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://dev.to/srisatya">
