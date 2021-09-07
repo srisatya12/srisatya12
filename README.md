@@ -25,10 +25,11 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
-<h3 align="left">Github Stats</h3>
- <div align="left" >
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true"> <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<h3 align="center">Github Stats</h3>
+ <div align="center">
+ <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="Coding" width="350">
 </div> 
 <div align="center">
+   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&)"><img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
