@@ -32,7 +32,7 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true&theme=cobalt" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatya&theme=cobalt" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&theme=cobalt" />
 </p>
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
