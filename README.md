@@ -35,4 +35,4 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&theme=cobalt" />
 </p>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=000000&color=000000&line=fcfafa&point=edeff2"></div>
+  <img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=f1ebf2&color=000000&line=fcfafa&point=edeff2"></div>
