@@ -31,5 +31,6 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 </div> 
 <div align="center">
    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true"> 
+  [![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&theme=xcode)](https://git.io/kaiwalyakoparkar)
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&)"><img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
