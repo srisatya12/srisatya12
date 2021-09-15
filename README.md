@@ -31,7 +31,7 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 <h3 align="center">Github Stats</h3>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true&theme=cobalt" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true&theme=buefy" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&theme=cobalt" />
 </p>
 <div align="center">
