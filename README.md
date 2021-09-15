@@ -32,5 +32,4 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 <div align="center">
    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=SriSatyaT&show_icons=true"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaT&)"><img src="https://activity-graph.herokuapp.com/graph?username=SriSatyaT&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
- [![Sri Satya's github activity graph](https://activity-graph.herokuapp.com/graph?username= SriSatyaT&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
