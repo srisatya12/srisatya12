@@ -31,4 +31,4 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 </div> 
 
 
-[![Sri Satya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SriSatyaT&theme=nord)](https://git.io/kaiwalyakoparkar)
+[![Sri Satya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SriSatyaT&theme=nord)](https://git.io/SriSatyaT)
