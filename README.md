@@ -14,7 +14,7 @@
 </a>
 </p>
 </div>
-<img src="Banner.gif">
+<img src="me.gif">
 I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineering</strong>. Currently I am focusing on <strong>web development</strong> and <strong>DevOps</strong> and will explore more in the furture⚡
 <h2 align="center">Tech-Stack</h2>
 <p align="center"> 
