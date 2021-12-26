@@ -14,7 +14,7 @@
 </a>
 </p>
 </div>
-<img src="me.gif">
+<img src="Banner.gif">
 I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineering</strong>. Currently I am focusing on <strong>web development</strong> and <strong>DevOps</strong> and will explore more in the furture⚡
 <h2 align="center">Tech-Stack</h2>
 <p align="center"> 
@@ -26,7 +26,7 @@ I am <strong>Sri Satya</strong> pursuing a <strong>Computer Science and Engineer
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
  <div align="center">
- <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="Coding" width="350">
+ <img src="me.gif" alt="Coding" width="350">
 </div> 
 <h3 align="center">Github Stats</h3>
 <p align="center">
