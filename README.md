@@ -14,8 +14,5 @@
 <h3 align="center">Github Stats</h3>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srisatya12&show_icons=true&theme=buefy" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srisatya12&theme=cobalt" />
 </p>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=srisatya12&bg_color=000000&color=e6e3e3&line=ffffff&point=edeff2"></div>
