@@ -1,4 +1,4 @@
-<img src="Banner.gif">
+<img src="https://www.canva.com/design/DAEkuowPIZ4/dLL2WCrlxwY9qon0BfGi-g/watch?utm_content=DAEkuowPIZ4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
 
 <h2 align="center">Tech-Stack</h2>
 <p align="center"> 
