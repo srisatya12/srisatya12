@@ -13,6 +13,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-3DDC84?style=for-the-badge&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-D70A53?style=for-the-badge&logo=powerbi&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-FCC624?style=for-the-badge&logo=googlesheets&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=srisatya12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srisatya12&theme=tokyonight&hide_border=true)<br/>
