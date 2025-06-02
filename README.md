@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srisatya</h1>
-👩🏻‍💻 Software Engineer & Data Analyst sharing about my journey and learnings.<br>👩🏻‍🎓 Studied Computer Science and Minor in Artificial Intelligence<br>🌷 #learninginpublic in my digital garden<br>💭 Currently learning about data analytics and dataviz!<br><br>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings.<br>👩🏻‍🎓 Studied Computer Science and Minor in Artificial Intelligence<br>🌷 #learninginpublic in my digital garden<br><br><br>
 
 
 ## 🌐 Socials:
